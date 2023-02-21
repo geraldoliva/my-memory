@@ -2,6 +2,7 @@
 
 **My Memory** is a picture matching game where you match pairs of images until there are no more pairs to match. There are 3 difficulty levels to choose from: Easy (4 pairs), Medium (9 pairs) or Hard (12 pairs).
 Users can create their own custom games with photos from their phone and share that game with friends.<br>
+
 **Android concepts used:**
 * Dynamic layouts
 * Multi-screen navigation
@@ -29,7 +30,7 @@ The following **required** functionality is completed:
 
 Here's a walk-through of implemented user stories:
 
-<img src='https://j.gifs.com/mq9yr0.gif' title='Video Walk-through' width='250' alt='Video Walk-through' /><br><br>
+<img src='https://user-images.githubusercontent.com/51930238/220232911-235f9fd2-dfe8-409f-a8f9-962bccc33f88.gif' title='Video Walk-through' width='250' alt='Video Walk-through' /><br><br>
 
 **Author:** [Gerald Oliva](https://www.geraldoliva.com/)
 
