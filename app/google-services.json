@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93891221869",
+    "project_id": "my-memory-8bfe1",
+    "storage_bucket": "my-memory-8bfe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93891221869:android:b049d30ba2829aaeace264",
+        "android_client_info": {
+          "package_name": "com.goliva.mymemory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93891221869-q8j8cm1cvgd94khv0eff24gsqqlcrgts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2JxVupLHqar-Eje_A00TwHjuI09lgKAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93891221869-q8j8cm1cvgd94khv0eff24gsqqlcrgts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
